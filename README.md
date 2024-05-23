@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🐤
 
-<!--
-**carolfulgencio/carolfulgencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é ana carolina
 
-Here are some ideas to get you started:
+-estou estudando na [alura](https//www.aura.com.br)
+-estou desenbolvendo na linguagem javaScript
+-utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###voce pode entrar em contato comigo 📧
+
+00001114281128sp@al.educacao.sp.gov.br
+
+@carol.fulgencio
+
+![](https://media.tenor.com/W-42HlChzwAAAAAM/rainn-wilson.gif)
