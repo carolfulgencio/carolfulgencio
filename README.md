@@ -3,7 +3,7 @@
 meu nome é ana carolina
 
 -estou estudando na [alura](https//www.aura.com.br)
--estou desenbolvendo na linguagem javaScript
+-estou desenvolvendo na linguagem javaScript
 -utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
 ###voce pode entrar em contato comigo 📧
